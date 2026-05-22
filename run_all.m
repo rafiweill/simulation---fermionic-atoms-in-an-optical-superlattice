@@ -23,3 +23,6 @@ figure7_single_swap_run;
 
 % plot figure 8:
 figure8_fast_gate_run;
+
+% plot figure 9:
+figure9_repeated_run;
